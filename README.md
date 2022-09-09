@@ -1,5 +1,12 @@
 
 # Flappy Bird game Using Pygame module
+<p align="center">
+<kbd>
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189435200-91d14afb-8382-417a-80da-9670188b72e4.png" width="700" height="500">
+</kbd>
+</p>
+
+
 In this repo, we are going to see how to make a flappy bird game in Pygame.
 We all are familiar with this game. In this game, the main objective of the player is to gain the maximum points by defending the bird from hurdles.
 
@@ -19,4 +26,9 @@ cd Flappy-Bird
 python main.py
 ```
 ## Demo
+<p align="center">
+<kbd>
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189435157-1a804bae-48ff-435f-85ba-96fa888e0a8b.gif" width="700" height="500">
+</kbd>
+</p>
 
