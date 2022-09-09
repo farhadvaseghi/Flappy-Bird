@@ -2,7 +2,7 @@
 # Flappy Bird game Using Pygame module
 <p align="center">
 <kbd>
-   <img align="center" src="https://user-images.githubusercontent.com/54831801/189435200-91d14afb-8382-417a-80da-9670188b72e4.png" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189435200-91d14afb-8382-417a-80da-9670188b72e4.png" width="500" height="300">
 </kbd>
 </p>
 
@@ -26,6 +26,7 @@ cd Flappy-Bird
 python main.py
 ```
 ## Demo
+
 <p align="center">
 <kbd>
    <img align="center" src="https://user-images.githubusercontent.com/54831801/189435157-1a804bae-48ff-435f-85ba-96fa888e0a8b.gif" width="700" height="500">
